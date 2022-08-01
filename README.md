@@ -6,9 +6,9 @@
 
 The focus of this project is to use python visualization tools in order to plot data.
 
-Visualizing data can be an invauable tool to make sense of data and to communicate the story the numerical data is telling, but in a more appealing and potentially more easily understandable way.
+Visualizing data can be an invauable tool to make sense of data and to communicate the story in a more appealing and potentially more easily understandable way.
 
-Visualized data has the potential to present data in a clear, succinct way, allowing the viewer to get the most important facts and tends almost immediately.
+Visualized data has the potential to present data in a clear, succinct way, allowing the viewer to get the most important facts and trends from the data almost immediately.
 
 In order to produce more interactive plots I have used hvplot (HoloViews) instead of matplotlib.
 
